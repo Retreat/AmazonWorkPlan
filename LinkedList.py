@@ -99,8 +99,3 @@ if __name__ == '__main__':
 
     print("\n\nTraverse---")
     s.traverse();
-
-    print("\nInsert--")
-    s.insert(3,l1);
-
-    s.traverse();
