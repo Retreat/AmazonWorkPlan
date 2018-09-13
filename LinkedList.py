@@ -81,6 +81,7 @@ class SingleLinkedList:
 
 
 if __name__ == '__main__':
+    print "/n/n/nLOVE YOU JANU BABE/n/n/n"
     l1 = LinkedList("Apple");
     l2 = LinkedList("Google");
     l3 = LinkedList("Microsoft");
